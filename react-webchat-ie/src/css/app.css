@@ -1,0 +1,45 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 12s linear;
+  height: 9vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  background-color: #282c34;
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotateY(360deg)
+  }
+
+  to {
+    transform: rotateY(0deg);
+  }
+}
+
+/* contact.js */
+div.thumbnail_Img {
+  text-align: left;
+  padding: 0 0 1rem 0;
+}
+
+/* .ac-image {
+  max-width: 25%;
+  width: 0;
+} */

@@ -1,0 +1,22 @@
+.navbar-dark .navbar-brand {
+  font-size: 1.5em;
+}
+
+#navbarBrandDiv {
+  left: auto;
+  right: auto;
+  text-align: center;
+  margin-right: 0;
+}
+
+a.navbar-brand {
+  margin-right: 0;
+}
+
+.dropdown-toggle::after {
+  vertical-align: .15em !important;
+}
+
+#searchForm {
+  float: right;
+}
